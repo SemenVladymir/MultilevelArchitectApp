@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_21.10.23_MultilevelArchitect", "Lesson_21.10.23_MultilevelArchitect.csproj", "{DCB3B631-70DD-4CA8-8A88-A3C67D72086F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB3B631-70DD-4CA8-8A88-A3C67D72086F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB3B631-70DD-4CA8-8A88-A3C67D72086F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB3B631-70DD-4CA8-8A88-A3C67D72086F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB3B631-70DD-4CA8-8A88-A3C67D72086F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59E7B5FB-DFB9-475C-AF8D-ECD224D4CAE9}
+	EndGlobalSection
+EndGlobal
